@@ -5,3 +5,7 @@ StreamingAPIでTwitterのTLを眺めるサンプル
 
 ココらへんどうやるのかよく知らないので分かる人教えてほしい
 
+![](tmp.png)
+
+![](tmp2.png)
+
