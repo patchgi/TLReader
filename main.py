@@ -20,6 +20,8 @@ AS=""
 def aa_art(input_image):
     w,h=input_image.size
     input_pix=input_image.load()
+    
+    image_raw=[]
 
     for y in range(0,h,w/64):
         line=""
